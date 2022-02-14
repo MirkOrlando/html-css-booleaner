@@ -19,3 +19,20 @@
     left: 0;
     bottom: 0;
 }
+
+h1{
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+#subtitle, #date_article{
+    color: grey;
+}
+
+#subtitle{
+    font-size: 30px;
+}
+
+#journalist{
+    color:#36B1E7;
+}
