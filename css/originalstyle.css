@@ -3,3 +3,19 @@
 /* journalist name color lightblue #36B1E7 */
 /* tablehead color lightblue #20A9E5 */
 /* cells color lightblue #B1E5F2 */
+
+#site_header{
+    height: 180px;
+    background-image: url(../img/pattern.png);
+    background-size: cover contain;
+    background-color: #4EA0FF;
+    position: relative;
+}
+
+.logo{
+    width: 250px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
