@@ -21,8 +21,12 @@
 }
 
 h1{
-    font-size: 50px;
+    font-size: 40px;
     margin-bottom: 0;
+}
+
+#site_title{
+    margin-bottom: 20px;
 }
 
 #subtitle, #date_article{
@@ -30,11 +34,15 @@ h1{
 }
 
 #subtitle{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 #journalist{
     color:#36B1E7;
+}
+
+#date_article{
+    font-size: 12px;
 }
 
 .caption{
