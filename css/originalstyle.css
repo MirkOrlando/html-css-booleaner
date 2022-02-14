@@ -48,3 +48,22 @@ h1{
 .caption{
     font-size: 12px;
 }
+
+table{
+    text-align: left;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.last_cell{
+    width: 600px;
+}
+
+th{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.lightblue{
+    background-color: #B1E5F2;
+}
