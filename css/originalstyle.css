@@ -13,7 +13,7 @@
 }
 
 .logo{
-    width: 250px;
+    width: 350px;
     height: 100px;
     position: absolute;
     left: 0;
@@ -52,7 +52,12 @@ h1{
 table{
     text-align: left;
     vertical-align: middle;
+    border-collapse: collapse;
     width: 100%;
+}
+
+table, th, td {
+    border: 0px none;
 }
 
 .last_cell{
